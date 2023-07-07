@@ -2,7 +2,7 @@ module github.com/sixwaaaay/propagate
 
 go 1.20
 
-require google.golang.org/grpc v1.54.0
+require google.golang.org/grpc v1.56.2
 
 require (
 	github.com/golang/protobuf v1.5.2 // indirect
